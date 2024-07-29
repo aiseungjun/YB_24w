@@ -1,0 +1,9 @@
+swig
+gymnasium == 0.29.1
+tqdm == 4.66.1
+numpy == 1.21.6
+gymnasium[box2d]
+torch
+matplotlib
+opencv-python
+stable-baselines3[extra]
